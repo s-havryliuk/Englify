@@ -1,0 +1,264 @@
+# english<TAB>level<TAB>part_of_speech<TAB>ipa<TAB>example_en<TAB>example_uk
+hello	A1	interjection	/həˈləʊ/	Hello, how are you today?	Привіт, як ти сьогодні?
+water	A1	noun	/ˈwɔːtə/	Can I have a glass of water?	Можна мені склянку води?
+family	A1	noun	/ˈfæmɪli/	My family lives nearby.	Моя родина живе неподалік.
+friend	A1	noun	/frend/	She is my best friend.	Вона моя найкраща подруга.
+apple	A1	noun	/ˈæpəl/	I eat an apple every morning.	Я їм яблуко щоранку.
+book	A1	noun	/bʊk/	I bought a new book yesterday.	Учора я купив нову книгу.
+house	A1	noun	/haʊs/	Their house is near the park.	Їхній будинок біля парку.
+read	A1	verb	/riːd/	I read in English every day.	Я читаю англійською щодня.
+write	A1	verb	/raɪt/	Please write your name here.	Будь ласка, напиши тут своє ім'я.
+teacher	A1	noun	/ˈtiːtʃə/	Our teacher explains new words.	Наш учитель пояснює нові слова.
+school	A1	noun	/skuːl/	The school starts at eight.	Заняття в школі починаються о восьмій.
+coffee	A1	noun	/ˈkɒfi/	Would you like some coffee?	Хочеш кави?
+chair	A1	noun	/tʃeə/	Please sit on this chair.	Будь ласка, сядь на цей стілець.
+city	A1	noun	/ˈsɪti/	I live in a small city.	Я живу в невеликому місті.
+ticket	A2	noun	/ˈtɪkɪt/	I booked my train ticket online.	Я забронював квиток на потяг онлайн.
+passport	A2	noun	/ˈpɑːspɔːt/	Keep your passport in a safe place.	Тримай свій паспорт у безпечному місці.
+interview	A2	noun	/ˈɪntəvjuː/	My job interview is tomorrow.	Моя співбесіда завтра.
+appointment	A2	noun	/əˈpɔɪntmənt/	I have a doctor's appointment at ten.	У мене запис до лікаря на десяту.
+explain	A2	verb	/ɪkˈspleɪn/	Can you explain this rule again?	Можеш ще раз пояснити це правило?
+compare	A2	verb	/kəmˈpeə/	Compare the two answers.	Порівняй дві відповіді.
+headache	A2	noun	/ˈhedeɪk/	I have a headache this morning.	У мене сьогодні вранці болить голова.
+journey	A2	noun	/ˈdʒɜːni/	The journey took three hours.	Дорога зайняла три години.
+practice	A2	noun	/ˈpræktɪs/	Daily practice helps me improve.	Щоденна практика допомагає мені покращуватися.
+goodbye	A1			We said goodbye at the station.	Ми попрощалися на вокзалі.
+please	A1			Please close the window.	Будь ласка, зачини вікно.
+thanks	A1			Thanks for your help.	Дякую за твою допомогу.
+name	A1			What is your name?	Як тебе звати?
+happy	A1			She is happy today.	Сьогодні вона щаслива.
+sad	A1			He feels sad this morning.	Сьогодні вранці йому сумно.
+big	A1			We live in a big city.	Ми живемо у великому місті.
+small	A1			This room is small.	Ця кімната маленька.
+today	A1			I have a lesson today.	Сьогодні в мене урок.
+tomorrow	A1			We will meet tomorrow.	Ми зустрінемося завтра.
+bread	A1			I buy fresh bread every morning.	Я купую свіжий хліб щоранку.
+milk	A1			The baby drinks milk.	Дитина п’є молоко.
+banana	A1			She eats a banana after breakfast.	Вона їсть банан після сніданку.
+rice	A1			We often eat rice for dinner.	Ми часто їмо рис на вечерю.
+cheese	A1			I put cheese on my sandwich.	Я кладу сир на свій бутерброд.
+egg	A1			I eat an egg for breakfast.	Я їм яйце на сніданок.
+breakfast	A1			Breakfast starts at eight.	Сніданок починається о восьмій.
+dinner	A1			What time is dinner?	О котрій годині вечеря?
+room	A1			Your room is very clean.	Твоя кімната дуже чиста.
+door	A1			Please open the door.	Будь ласка, відчини двері.
+window	A1			The window is open.	Вікно відчинене.
+table	A1			The keys are on the table.	Ключі лежать на столі.
+bed	A1			The cat is sleeping on the bed.	Кіт спить на ліжку.
+kitchen	A1			My mother is in the kitchen.	Моя мама на кухні.
+bathroom	A1			The bathroom is next to my bedroom.	Ванна кімната поруч із моєю спальнею.
+garden	A1			There are flowers in our garden.	У нашому саду є квіти.
+mother	A1			My mother works at a hospital.	Моя мама працює в лікарні.
+father	A1			My father is reading a book.	Мій тато читає книжку.
+sister	A1			My sister speaks English.	Моя сестра розмовляє англійською.
+brother	A1			My brother plays football.	Мій брат грає у футбол.
+parents	A1			My parents are at home.	Мої батьки вдома.
+child	A1			The child is playing outside.	Дитина грається надворі.
+children	A1			The children are in the park.	Діти в парку.
+baby	A1			The baby is asleep.	Немовля спить.
+woman	A1			The woman is a teacher.	Ця жінка — вчителька.
+man	A1			The man is waiting for the bus.	Чоловік чекає на автобус.
+girl	A1			The girl has a red bag.	У дівчинки червона сумка.
+boy	A1			The boy is riding a bike.	Хлопчик їде на велосипеді.
+student	A1			The student is studying for an exam.	Студент готується до іспиту.
+grandmother	A1			My grandmother makes great soup.	Моя бабуся готує чудовий суп.
+grandfather	A1			My grandfather lives in a village.	Мій дідусь живе в селі.
+morning	A1			I drink tea every morning.	Я п’ю чай щоранку.
+evening	A1			We watch films in the evening.	Ми дивимося фільми ввечері.
+night	A1			It is cold at night.	Уночі холодно.
+yesterday	A1			I saw her yesterday.	Я бачив її вчора.
+week	A1			I work five days a week.	Я працюю п’ять днів на тиждень.
+month	A1			Next month we will travel.	Наступного місяця ми подорожуватимемо.
+year	A1			She visits us every year.	Вона відвідує нас щороку.
+hour	A1			The lesson lasts one hour.	Урок триває одну годину.
+minute	A1			Wait a minute, please.	Зачекай хвилину, будь ласка.
+early	A1			He wakes up early.	Він прокидається рано.
+late	A1			The bus is late again.	Автобус знову запізнюється.
+red	A1			She is wearing a red jacket.	На ній червона куртка.
+blue	A1			The sky is blue today.	Сьогодні небо блакитне.
+green	A1			I like your green sweater.	Мені подобається твій зелений светр.
+black	A1			He has a black backpack.	У нього чорний рюкзак.
+white	A1			They painted the wall white.	Вони пофарбували стіну в білий колір.
+young	A1			My younger brother is still at school.	Мій молодший брат ще навчається в школі.
+old	A1			This old house is beautiful.	Цей старий будинок гарний.
+new	A1			I bought a new phone.	Я купив новий телефон.
+tall	A1			The tall man is my uncle.	Високий чоловік — мій дядько.
+short	A1			She has short hair.	У неї коротке волосся.
+long	A1			It was a long journey.	Це була довга подорож.
+hot	A1			The soup is too hot.	Суп надто гарячий.
+cold	A1			It is cold outside.	Надворі холодно.
+clean	A1			Please keep your room clean.	Будь ласка, підтримуй чистоту у своїй кімнаті.
+dirty	A1			Your shoes are dirty.	Твоє взуття брудне.
+beautiful	A1			The city looks beautiful at night.	Місто виглядає гарно вночі.
+nice	A1			Have a nice day!	Гарного дня!
+good	A1			This is a good idea.	Це гарна ідея.
+bad	A1			I had a bad day.	У мене був невдалий день.
+easy	A1			This exercise is easy.	Ця вправа легка.
+difficult	B1			English grammar can be difficult.	Англійська граматика може бути складною.
+fast	B1			The train is very fast.	Цей потяг дуже швидкий.
+slow	B1			The computer is slow today.	Сьогодні комп’ютер працює повільно.
+strong	A1			She is strong and healthy.	Вона сильна та здорова.
+weak	A1			I feel weak after the illness.	Після хвороби я почуваюся слабким.
+go	A1			I go to school by bus.	Я їжджу до школи автобусом.
+come	A1			Please come here.	Будь ласка, підійди сюди.
+want	A1			I want a glass of water.	Я хочу склянку води.
+need	A1			We need more time.	Нам потрібно більше часу.
+like	A1			I like this song.	Мені подобається ця пісня.
+love	A1			I love my family.	Я люблю свою родину.
+know	A1			Do you know the answer?	Ти знаєш відповідь?
+think	A1			I think you are right.	Думаю, ти маєш рацію.
+say	A1			What did she say?	Що вона сказала?
+speak	A1			Can you speak English?	Ти вмієш розмовляти англійською?
+talk	A1			Let's talk after class.	Поговорімо після заняття.
+listen	A1			Listen to the teacher.	Слухай учителя.
+hear	A1			I can hear music.	Я чую музику.
+see	A1			Can you see the mountains?	Ти бачиш гори?
+look	A1			Look at the picture.	Подивися на картинку.
+watch	A1			We watch TV after dinner.	Ми дивимося телевізор після вечері.
+learn	B1			I learn five new words every day.	Я вивчаю п’ять нових слів щодня.
+study	B1			She studies English at university.	Вона вивчає англійську в університеті.
+work	B1			I work in a small shop.	Я працюю в маленькому магазині.
+play	B1			The children play in the garden.	Діти граються в саду.
+walk	A1			We walk to school together.	Ми разом ходимо до школи пішки.
+run	A1			He can run very fast.	Він уміє дуже швидко бігати.
+sleep	A1			I usually sleep eight hours.	Зазвичай я сплю вісім годин.
+eat	A1			We eat lunch at noon.	Ми обідаємо опівдні.
+drink	A1			Drink some water, please.	Випий трохи води, будь ласка.
+buy	A1			I want to buy this book.	Я хочу купити цю книжку.
+pay	B1			Can I pay by card?	Можна розрахуватися карткою?
+open	A1			Open the window, please.	Відчини вікно, будь ласка.
+close	A1			Please close the door.	Будь ласка, зачини двері.
+start	A1			The film starts at seven.	Фільм починається о сьомій.
+stop	A1			Please stop here.	Зупинися тут, будь ласка.
+luggage	A2			We left our luggage at the hotel.	Ми залишили багаж у готелі.
+airport	A2			We arrived at the airport early.	Ми прибули до аеропорту рано.
+station	A2			The train leaves from this station.	Потяг відправляється з цієї станції.
+departure	A2			The departure time has changed.	Час відправлення змінився.
+arrival	A2			The arrival is scheduled for noon.	Прибуття заплановане на полудень.
+reservation	A2			I made a reservation for two people.	Я забронював столик на двох.
+destination	A2			Paris is our final destination.	Париж — наш кінцевий пункт призначення.
+map	A2			Can you show me the city on the map?	Можеш показати мені місто на карті?
+suitcase	A2			My suitcase is very heavy.	Моя валіза дуже важка.
+borrow	A2			Can I borrow your pen?	Можна позичити твою ручку?
+lend	A2			Could you lend me some money?	Можеш позичити мені трохи грошей?
+repair	A2			They will repair the car tomorrow.	Вони відремонтують машину завтра.
+choose	A2			You can choose any seat.	Ти можеш обрати будь-яке місце.
+invite	A2			I want to invite my friends.	Я хочу запросити своїх друзів.
+neighbour	A2			Our neighbour is very friendly.	Наш сусід дуже привітний.
+receipt	A2			Keep the receipt, please.	Збережіть чек, будь ласка.
+discount	A2			Students get a discount here.	Студенти отримують тут знижку.
+delivery	A2			The delivery arrived this morning.	Доставку привезли сьогодні вранці.
+comfortable	A2			This chair is very comfortable.	Цей стілець дуже зручний.
+noisy	A2			The street is noisy at night.	Уночі на вулиці шумно.
+accommodation	A2			We found cheap accommodation near the beach.	Ми знайшли недороге житло біля пляжу.
+boarding pass	A2			You need a boarding pass to get on the plane.	Щоб сісти в літак, потрібен посадковий талон.
+visa	A2			She needs a visa to travel there.	Для цієї подорожі їй потрібна віза.
+platform	A2			The train leaves from platform five.	Потяг відправляється з п’ятої платформи.
+check in	A2			We need to check in before the flight.	Нам потрібно зареєструватися перед рейсом.
+check out	B1			We have to check out by eleven.	Ми маємо виїхати з готелю до одинадцятої.
+delay	B1			The flight has a two-hour delay.	Рейс затримується на дві години.
+schedule	A2			The bus schedule has changed.	Розклад автобусів змінився.
+route	A2			This route goes through the city centre.	Цей маршрут проходить через центр міста.
+traffic	A2			There is a lot of traffic this morning.	Сьогодні вранці на дорогах інтенсивний рух.
+abroad	A2			She wants to study abroad.	Вона хоче навчатися за кордоном.
+souvenir	A2			I bought a small souvenir for my sister.	Я купив невеликий сувенір для сестри.
+tourist	A2			The tourist asked for directions.	Турист запитав дорогу.
+trip	B1			We are planning a trip to Poland.	Ми плануємо поїздку до Польщі.
+beach	B1			The children are playing on the beach.	Діти граються на пляжі.
+mountain	A2			We climbed a small mountain.	Ми піднялися на невелику гору.
+forest	B1			They went for a walk in the forest.	Вони пішли гуляти лісом.
+river	A2			The river flows through the town.	Річка протікає через місто.
+lake	A2			We swam in the lake.	Ми плавали в озері.
+island	B1			They spent a week on the island.	Вони провели тиждень на острові.
+application	A2			Please complete the application form.	Будь ласка, заповніть заяву.
+interview	B1			I have a job interview tomorrow.	Завтра в мене співбесіда.
+colleague	B1			My colleague helped me with the project.	Колега допоміг мені з проєктом.
+boss	A2			My boss is on holiday this week.	Мій керівник цього тижня у відпустці.
+manager	A2			The manager will call you later.	Менеджер зателефонує вам пізніше.
+employee	B1			Every employee has an ID card.	Кожен працівник має посвідчення.
+customer	B1			The customer asked for a refund.	Покупець попросив повернути гроші.
+salary	B1			Her salary increased this year.	Цього року її зарплата зросла.
+payment	B1			Your payment was successful.	Ваш платіж пройшов успішно.
+budget	A2			We have a small budget for this project.	У нас невеликий бюджет для цього проєкту.
+meeting	A2			The meeting starts at ten.	Зустріч починається о десятій.
+project	A2			We finished the project on time.	Ми завершили проєкт вчасно.
+presentation	A2			She gave a short presentation.	Вона провела коротку презентацію.
+report	B1			I need to finish this report.	Мені потрібно завершити цей звіт.
+homework	B1			I have a lot of homework today.	Сьогодні в мене багато домашніх завдань.
+exam	A2			I passed my English exam.	Я склав іспит з англійської.
+subject	A2			English is my favourite subject.	Англійська — мій улюблений предмет.
+course	B1			I am taking an online course.	Я проходжу онлайн-курс.
+lesson	A2			The lesson begins at nine.	Урок починається о дев’ятій.
+skill	B1			Speaking is an important skill.	Уміння говорити — важлива навичка.
+improve	B1			I want to improve my English.	Я хочу покращити свою англійську.
+prepare	A2			I need to prepare for the exam.	Мені потрібно підготуватися до іспиту.
+achieve	B1			You can achieve your goals.	Ти можеш досягти своїх цілей.
+succeed	B1			She worked hard to succeed.	Вона наполегливо працювала, щоб досягти успіху.
+fever	B1			He has a high fever.	У нього висока температура.
+cough	A2			She has had a cough for three days.	Вона кашляє вже три дні.
+medicine	A2			Take this medicine after meals.	Приймай ці ліки після їжі.
+pharmacy	A2			There is a pharmacy near the hospital.	Біля лікарні є аптека.
+patient	B1			The doctor examined the patient.	Лікар оглянув пацієнта.
+nurse	B1			The nurse helped the child.	Медсестра допомогла дитині.
+ambulance	B1			An ambulance arrived quickly.	Швидка допомога приїхала швидко.
+healthy	A2			Eating vegetables helps you stay healthy.	Овочі допомагають залишатися здоровим.
+nervous	B1			I feel nervous before interviews.	Я нервую перед співбесідами.
+worried	A2			She was worried about the exam.	Вона хвилювалася через іспит.
+confused	A2			The instructions made me confused.	Інструкції мене заплутали.
+surprised	A2			We were surprised by the news.	Новина нас здивувала.
+excited	B1			I am excited about the trip.	Я дуже радію майбутній подорожі.
+relaxed	A2			I feel relaxed after yoga.	Після йоги я почуваюся розслаблено.
+lonely	A2			He felt lonely in the new city.	У новому місті він почувався самотнім.
+agree	A2			I agree with your idea.	Я погоджуюся з твоєю ідеєю.
+disagree	B1			I disagree with that decision.	Я не погоджуюся з цим рішенням.
+explain	B1			Can you explain this rule?	Можеш пояснити це правило?
+describe	B1			Please describe what happened.	Будь ласка, опиши, що сталося.
+suggest	B1			I suggest taking a break.	Я пропоную зробити перерву.
+recommend	A2			I recommend this book.	Я рекомендую цю книжку.
+accept	B1			They accepted our offer.	Вони прийняли нашу пропозицію.
+promise	B1			I promise to call tomorrow.	Я обіцяю зателефонувати завтра.
+apologise	B1			He apologised for being late.	Він вибачився за запізнення.
+remember	A2			Remember to bring your passport.	Не забудь узяти паспорт.
+forget	B1			Don't forget your keys.	Не забудь ключі.
+decide	A2			We need to decide today.	Нам потрібно вирішити сьогодні.
+continue	A2			Please continue reading.	Будь ласка, продовжуй читати.
+avoid	B1			Try to avoid unnecessary mistakes.	Намагайся уникати зайвих помилок.
+allow	B1			The rules allow students to use dictionaries.	Правила дозволяють студентам користуватися словниками.
+return	A2			I want to return this jacket.	Я хочу повернути цю куртку.
+exchange	B1			Can I exchange this shirt?	Можна обміняти цю сорочку?
+compare	B1			Compare these two pictures.	Порівняй ці два малюнки.
+share	B1			We share an apartment.	Ми разом орендуємо квартиру.
+leave	A2			I have to leave now.	Мені треба йти зараз.
+move	B1			We will move to another city.	Ми переїдемо в інше місто.
+arrive	A2			The guests will arrive soon.	Гості скоро прибудуть.
+reach	B1			We reached the station on time.	Ми дісталися станції вчасно.
+follow	B1			Follow the instructions carefully.	Уважно дотримуйся інструкцій.
+carry	B1			Can you carry this bag?	Можеш понести цю сумку?
+deadline	B1			We must finish the work before the deadline.	Ми маємо завершити роботу до кінцевого терміну.
+opportunity	B1			This job is a great opportunity.	Ця робота — чудова можливість.
+responsibility	B1			Taking care of the dog is my responsibility.	Доглядати за собакою — моя відповідальність.
+requirement	B1			Experience is an important requirement for this position.	Досвід — важлива вимога для цієї посади.
+experience	B1			She has five years of work experience.	У неї п’ять років досвіду роботи.
+negotiate	B1			They are trying to negotiate a better price.	Вони намагаються домовитися про кращу ціну.
+challenge	B1			Learning a new language is a challenge.	Вивчення нової мови — це виклик.
+although	B1			Although it was raining, we went out.	Хоча йшов дощ, ми вийшли надвір.
+however	B1			The task was difficult; however, we finished it.	Завдання було складним, однак ми його завершили.
+therefore	B1			It was late; therefore, we went home.	Було пізно, тому ми пішли додому.
+consider	B1			Please consider all the options.	Будь ласка, розглянь усі варіанти.
+realise	B1			I didn't realise it was so late.	Я не усвідомлював, що вже так пізно.
+confident	B1			She feels confident before the presentation.	Вона почувається впевнено перед презентацією.
+anxious	B1			He felt anxious before the exam.	Він хвилювався перед іспитом.
+curious	B1			The children were curious about the new student.	Дітям було цікаво дізнатися про нового учня.
+persuade	B1			I tried to persuade him to stay.	Я намагався переконати його залишитися.
+decision	B1			It was a difficult decision.	Це було складне рішення.
+delicious	B1			The soup is delicious.	Суп дуже смачний.
+seafood	B1			I don't eat seafood.	Я не їм морепродукти.
+service	B1			The restaurant has excellent service.	У ресторані чудове обслуговування.
+vegetarian	B1			My sister is a vegetarian.	Моя сестра — вегетаріанка.
+landlord	B1			Our landlord raised the rent.	Наш орендодавець підвищив орендну плату.
+neighbourhood	B1			I like this quiet neighbourhood.	Мені подобається цей тихий район.
+storage	B1			There is not enough storage space in this room.	У цій кімнаті недостатньо місця для зберігання речей.
+exhausted	B1			I was exhausted after the long journey.	Після довгої подорожі я був виснажений.
+wallet	B1			I can't find my wallet.	Я не можу знайти свій гаманець.
+trust	B1			I trust my best friend.	Я довіряю своєму найкращому другові.
+rely on someone	B1			You can rely on someone you trust.	Ти можеш покластися на людину, якій довіряєш.
